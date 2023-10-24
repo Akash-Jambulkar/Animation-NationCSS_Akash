@@ -1563,6 +1563,13 @@ let cards = [
     githubLink: 'https://github.com/Akash-Jambulkar'
   },
   {
+    artName: 'BoxMotion',
+    pageLink: './Art/akashCss2/animation2.html',
+    imageLink: './Art/akashCss2/boxanimation.jpeg',
+    author: 'Akash',
+    githubLink: 'https://github.com/Akash-Jambulkar'
+  },
+  {
     artName: 'Circles Animation',
     pageLink: './Art/Loukas/AnimatedCircles.html',
     imageLink: './Art/Loukas/Circles.gif',
