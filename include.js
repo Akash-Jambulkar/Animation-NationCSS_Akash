@@ -1556,6 +1556,13 @@ let cards = [
     githubLink: 'https://github.com/Akash-Jambulkar'
   },
   {
+    artName: 'centerball bounce',
+    pageLink: './Art/akashCss1/animation1.html',
+    imageLink: './Art/akashCss1/Screenshot(195).png',
+    author: 'Akash',
+    githubLink: 'https://github.com/Akash-Jambulkar'
+  },
+  {
     artName: 'Circles Animation',
     pageLink: './Art/Loukas/AnimatedCircles.html',
     imageLink: './Art/Loukas/Circles.gif',
